@@ -38,7 +38,7 @@ Os robôs aspiradores de pó são sistemas embarcados que exigem precisão e efi
 # Sistemas Operacionais em Tempo Real (RTOS)
 
 - **RTOS** garantem a execução de tarefas críticas com prazos específicos
-- Exemplo: **Nano-RK**
+- Exemplo: **TI-RTOS**
 - Multitarefa preemptiva baseada em prioridades
 
 ---
@@ -62,7 +62,7 @@ Os robôs aspiradores de pó são sistemas embarcados que exigem precisão e efi
 
 - **RTOS**: garante execução de tarefas críticas
 - Reduz falhas temporais
-- RTOS como Nano-RK oferece reserva de CPU e energia
+- RTOS como TI_RTOS oferece reserva de CPU e energia
 
 ---
 
@@ -70,7 +70,6 @@ Os robôs aspiradores de pó são sistemas embarcados que exigem precisão e efi
 
 - **RTOS**: alta previsibilidade e resposta rápida
 - **GPOS**: eficiência geral, sem garantias de tempo real
-- Exemplo: **Nano-RK** vs **Linux tradicional**
 
 ---
 
@@ -78,7 +77,7 @@ Os robôs aspiradores de pó são sistemas embarcados que exigem precisão e efi
 
 - **RTOS**: melhor gestão de energia
 - Permite operação prolongada de dispositivos embarcados
-- Exemplo: Nano-RK garante eficiência energética
+- Exemplo: TI-RTOS garante eficiência energética
 
 ---
 
@@ -89,6 +88,6 @@ O uso de RTOS em robôs aspiradores de pó oferece:
 - Eficiência
 - Melhor gestão de recursos
 
-Os RTOS, como o Nano-RK, são superiores a GPOS para aplicações críticas.
+Os RTOS, como o TI-RTOS, são superiores a GPOS para aplicações críticas.
 
 ---
